@@ -1,1 +1,1 @@
-como aclaracion la funcion con static no esta en modulo.c porque en c static se concidera un private entonces para que se pueda usar esa funcion se escribio en modulo.h
+como aclaracion la funcion con static no esta en modulo.c porque en c static se podria conciderar un private en otros lenguajes de programacion entonces para que se pueda usar esa funcion se escribio en modulo.h
